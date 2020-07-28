@@ -1,0 +1,38 @@
+.body
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header
+{
+    float: right;
+}
+
+.header a, .header button
+{
+    margin:10px;
+    color:#000;
+    text-decoration:none;
+}
+
+.header button
+{
+    background:#4484f1;
+    padding:8px;
+    font-size: 15px;
+    color:#fff;
+    border-radius:10%;
+    font-weight:bold;
+}
+
+
+
+.logo-img img
+    {
+    margin-top:7.5%;
+    margin-left:180px;
+    width:450px;
+    height:140px;
+    }
